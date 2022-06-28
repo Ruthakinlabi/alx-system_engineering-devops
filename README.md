@@ -1,1 +1,1 @@
-task 0, hello world
+task 0,<o>
